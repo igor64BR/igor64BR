@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @igor64BR
-- 👀 I’m a Python and .NET Core intern full stack dev
+- 👀 I’m a JS and .NET Core intern full stack dev
 - 🌱 I’m currently learning C#, JS and asp.NET Core
 
 <div align="center">
