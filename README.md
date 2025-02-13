@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Igor Baiocco Rodrigues
 - 👀 I’m a Full-Stack and Mobile developer with .NET, React, React Native, Angular and Ionic
-- 🌱 I’m currently working at IndustriALL as a Junior for 3 years and studying Information Systems at college (UFES)
+- 🎓 I’m currently working at IndustriALL as a Junior for 3 years and studying Information Systems at college (UFES)
+- 🌱 I'm on a journey of deepening my knowledge in React/React Native and creating new individual projects
 
 <div align="center">
   <a href="https://github.com/igor64br">
