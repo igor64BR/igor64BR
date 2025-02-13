@@ -1,6 +1,6 @@
-## 👋 Hi, I’m @igor64BR
-- 👀 I’m a JS and .NET Core intern full stack dev
-- 🌱 I’m currently learning C#, JS and asp.NET Core
+## 👋 Hi, I’m Igor Baiocco Rodrigues
+- 👀 I’m a Full-Stack and Mobile developer with .NET, React, React Native, Angular and Ionic
+- 🌱 I’m currently working at IndustriALL as a Junior for 3 years and studying Information Systems at college (UFES)
 
 <div align="center">
   <a href="https://github.com/igor64br">
