@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Igor Baiocco!
 
-I'm a **full-stack and mobile** developer, passionate about creating solutions that join **technology and purpose**.
-Currently I'm working on **IndustriALL**, collabbing in big insustries systems just like **Samarco, Vale and Suzano**.
+I'm a **full-stack and mobile** developer, passionate about creating solutions that combine **technology and purpose**.  
+Currently, I work at **IndustriALL**, collaborating on systems for major industries such as **Samarco, Vale, and Suzano**.
 
-💡 I have strong beliefs that coding is much more than just writing code. It borns from brainstorms, empathy and a deailed look.
+💡 I strongly believe that coding is much more than just writing code — it’s born from brainstorming, empathy, and attention to detail.
 
 ---
 
 ### 🚀 About me
-- 🎓 I am a **Information System** student at UFES
-- 💻 4+ years of experience building high performance and scallable solutions using **.NET, React, React Native, Angular, Ionic and SQL Server**
-- 🧩 I have special interests in **software engeneering, architectures, Clean Code, Object Calisthenics and user experience**
-- 🌱 Always aiming to improve my coding skills for **Clean Code, DevOps and system design**
+- 🎓 I'm an **Information Systems** student at UFES  
+- 💻 4+ years of experience building high-performance and scalable solutions using **.NET, React, React Native, Angular, Ionic, and SQL Server**  
+- 🧩 I have a strong interest in **software engineering, architectures, Clean Code, Object Calisthenics, and user experience**  
+- 🌱 Always aiming to improve my skills in **Clean Code, DevOps, and system design**  
 
 ---
 
-### 🧠 What am I exploring
-- 📱 IndustriALL current legacy mobile app **iRoutes**, a offline-first app for indsutry management
-- ☁️ Cloud integration with **Azure DevOps and AWS** and local data synchronization strategies
-- 🧾 Personal project for automation and multifactorial analysis for investment portfolio management 🚀
+### 🧠 What I'm exploring
+- 📱 The current legacy mobile app at IndustriALL — **iRoutes**, an offline-first app for industrial management  
+- ☁️ Cloud integrations with **Azure DevOps** and **AWS**, and strategies for local data synchronization  
+- 🧾 A personal project for automation and multifactorial analysis of investment portfolios 🚀  
 
 ---
 
@@ -37,24 +37,24 @@ Currently I'm working on **IndustriALL**, collabbing in big insustries systems j
 
 ---
 
-### ✨ My filosophy
-> "Machines read any code. People only read clean codes!"
+### ✨ My philosophy
+> “Machines can read any code — but people only read clean code.”
 
-Each project is a new oportunity to learn something new - a new tech, about people or even about myself
-If you also believe in that, send a DM at my [LinkedIn](https://linkedin.com/in/igor-baiocco)! 😄
+Each project is a new opportunity to learn something — a new technology, something about people, or even about myself.  
+If you also believe that, feel free to connect with me on [LinkedIn](https://linkedin.com/in/igor-baiocco)! 😄
 
 ---
 
-### 🌍 Where you can find me
+### 🌍 Where to find me
 <div>
-  <a href = "mailto:igor64br@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
+  <a href="mailto:igor64br@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-baiocco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
 
-✨ _If any project inspires you, give it a star!_
-_Collabbing is what makes code gain life!_
+✨ _If any project inspires you, give it a star!_  
+_Collaboration is what makes code come alive!_
 
 <div align="center">
   <a href="https://github.com/igor64br">
