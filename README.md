@@ -22,6 +22,13 @@ My work spans APIs, business rules, data modeling and the parts of a system that
 
 TypeScript / NestJS · C# / .NET · React / React Native · Angular · SQL · Docker
 
+## GitHub in numbers
+
+<p><img src="assets/stats/activity.svg" width="100%" alt="Monthly GitHub contributions from October 2025 to October 2026; 6,465 contributions in the reported calendar window." /></p>
+<p><img src="assets/stats/languages.svg" width="100%" alt="Language share by code bytes across 31 owned public repositories, excluding forks. Kotlin 33.5%, C# 25.6%, HTML 15.9%, TypeScript 13.1%." /></p>
+
+<sub>Snapshot: October 29, 2026. Contributions follow GitHub's calendar and may include anonymized private activity. Language share covers public, non-fork repositories only, not proficiency or time spent. [Data and refresh instructions](assets/stats/README.md).</sub>
+
 ## Selected projects
 
 ### [Even / Tô Quite](https://github.com/igor64BR/even)
