@@ -1,63 +1,41 @@
-# 👋 Hi, I'm Igor Baiocco!
+<p align="left">
+  <img src="assets/header.svg" width="100%" alt="Igor Baiocco. Senior Software Developer. Backend systems, integrations and automation. Vitória, Brazil." />
+</p>
 
-I'm a **full-stack and mobile** developer, passionate about creating solutions that combine **technology and purpose**.  
-Currently, I work at **IndustriALL**, collaborating on systems for major industries such as **Samarco, Vale, and Suzano**.
+I build backend services and integrations with TypeScript, NestJS and .NET. I'm currently a Senior Software Developer at Atman Systems, working on traffic systems. Before that, I spent four years at IndustriALL building industrial software, mobile apps and SAP integrations.
 
-💡 I strongly believe that coding is much more than just writing code — it’s born from brainstorming, empathy, and attention to detail.
+My work spans APIs, business rules, data modeling and the parts of a system that have to agree with each other. I've also worked across React, Angular and React Native, including offline-first mobile applications.
 
----
+[LinkedIn](https://www.linkedin.com/in/igor-baiocco/) · [Email](mailto:igor64br@gmail.com)
 
-### 🚀 About me
-- 🎓 I'm an **Information Systems** student at UFES  
-- 💻 4+ years of experience building high-performance and scalable solutions using **.NET, React, React Native, Angular, Ionic, and SQL Server**  
-- 🧩 I have a strong interest in **software engineering, architectures, Clean Code, Object Calisthenics, and user experience**  
-- 🌱 Always aiming to improve my skills in **Clean Code, DevOps, and system design**  
+## Tools I work with
 
----
+<p>
+  <img src="assets/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img src="assets/nestjs.svg" width="40" height="40" alt="NestJS" title="NestJS" />&nbsp;&nbsp;
+  <img src="assets/csharp.svg" width="40" height="40" alt="C#" title="C#" />&nbsp;&nbsp;
+  <img src="assets/dotnet.svg" width="40" height="40" alt=".NET" title=".NET" />&nbsp;&nbsp;
+  <img src="assets/react.svg" width="40" height="40" alt="React and React Native" title="React / React Native" />&nbsp;&nbsp;
+  <img src="assets/angular.svg" width="40" height="40" alt="Angular" title="Angular" />&nbsp;&nbsp;
+  <img src="assets/docker.svg" width="40" height="40" alt="Docker" title="Docker" />
+</p>
 
-### 🧠 What I'm exploring
-- 📱 The current legacy mobile app at IndustriALL — **iRoutes**, an offline-first app for industrial management  
-- ☁️ Cloud integrations with **Azure DevOps** and **AWS**, and strategies for local data synchronization  
-- 🧾 A personal project for automation and multifactorial analysis of investment portfolios 🚀  
+TypeScript / NestJS · C# / .NET · React / React Native · Angular · SQL · Docker
 
----
+## Selected projects
 
-### 🛠️ Tools and Technologies
+### [Even / Tô Quite](https://github.com/igor64BR/even)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+An expense-splitting app with a native Android client in Kotlin and a .NET backend. It works offline without an account and uses a balance-graph algorithm to simplify group debts. Optional sync uses SignalR; local data stays in Room/SQLite.
 
----
+### [Hermes WebUI](https://github.com/igor64BR/hermes-webui)
 
-### ✨ My philosophy
-> “Machines can read any code — but people only read clean code.”
+My fork of [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui), where I'm working on configuration, memory-provider settings and OAuth flows for Hermes Agent. I use agent-assisted development in my own projects, with separate review sessions and explicit checks before publishing changes.
 
-Each project is a new opportunity to learn something — a new technology, something about people, or even about myself.  
-If you also believe that, feel free to connect with me on [LinkedIn](https://linkedin.com/in/igor-baiocco)! 😄
+### [Express + TypeScript + Prisma](https://github.com/igor64BR/express-ts-prisma-template)
 
----
+A backend template for starting Express APIs with TypeScript and Prisma.
 
-### 🌍 Where to find me
-<div>
-  <a href="mailto:igor64br@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-baiocco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Outside work
 
----
-
-✨ _If any project inspires you, give it a star!_  
-_Collaboration is what makes code come alive!_
-
-<div align="center">
-  <a href="https://github.com/igor64br">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor64br&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor64br&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+I'm studying Information Systems at UFES. My personal projects include household budgeting, developer tools and a self-hosted second brain built around Obsidian and Nextcloud. I also used to teach English.
