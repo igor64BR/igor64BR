@@ -24,8 +24,8 @@ TypeScript / NestJS · C# / .NET · React / React Native · Angular · SQL · Do
 
 ## GitHub in numbers
 
-<p><img src="assets/stats/activity.svg" width="100%" alt="Monthly GitHub contributions from October 2025 to October 2026; 6,465 contributions in the reported calendar window." /></p>
-<p><img src="assets/stats/languages.svg" width="100%" alt="Language share by code bytes across 31 owned public repositories, excluding forks. Kotlin 33.5%, C# 25.6%, HTML 15.9%, TypeScript 13.1%." /></p>
+<p><img src="assets/stats/activity.svg" width="100%" alt="Monthly GitHub contributions, 2025-10-26 to 2026-10-29; 6,468 contributions." /></p>
+<p><img src="assets/stats/languages.svg" width="100%" alt="Language share by code bytes across 13 owned public repositories; forks excluded." /></p>
 
 <sub>Snapshot: October 29, 2026. Contributions follow GitHub's calendar and may include anonymized private activity. Language share covers public, non-fork repositories only, not proficiency or time spent. [Data and refresh instructions](assets/stats/README.md).</sub>
 
