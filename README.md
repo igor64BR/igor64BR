@@ -29,20 +29,6 @@ TypeScript / NestJS · C# / .NET · React / React Native · Angular · SQL · Do
 
 <sub>Snapshot: October 29, 2026. Contributions follow GitHub's calendar and may include anonymized private activity. Language share covers public, non-fork repositories only, not proficiency or time spent. [Data and refresh instructions](assets/stats/README.md).</sub>
 
-## Selected projects
-
-### [Even / Tô Quite](https://github.com/igor64BR/even)
-
-An expense-splitting app with a native Android client in Kotlin and a .NET backend. It works offline without an account and uses a balance-graph algorithm to simplify group debts. Optional sync uses SignalR; local data stays in Room/SQLite.
-
-### [Hermes WebUI](https://github.com/igor64BR/hermes-webui)
-
-My fork of [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui), where I'm working on configuration, memory-provider settings and OAuth flows for Hermes Agent. I use agent-assisted development in my own projects, with separate review sessions and explicit checks before publishing changes.
-
-### [Express + TypeScript + Prisma](https://github.com/igor64BR/express-ts-prisma-template)
-
-A backend template for starting Express APIs with TypeScript and Prisma.
-
 ## Outside work
 
 I'm studying Information Systems at UFES. My personal projects include household budgeting, developer tools and a self-hosted second brain built around Obsidian and Nextcloud. I also used to teach English.
