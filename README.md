@@ -6,7 +6,7 @@ I build backend services and integrations with TypeScript, NestJS and .NET. I'm 
 
 My work spans APIs, business rules, data modeling and the parts of a system that have to agree with each other. I've also worked across React, Angular and React Native, including offline-first mobile applications.
 
-[LinkedIn](https://www.linkedin.com/in/igor-baiocco/) · [Email](mailto:igor64br@gmail.com)
+ [Portfolio](https://baioccodev.com) · [LinkedIn](https://www.linkedin.com/in/igor-baiocco/) · [Email](mailto:igor64br@gmail.com)
 
 ## Tools I work with
 
